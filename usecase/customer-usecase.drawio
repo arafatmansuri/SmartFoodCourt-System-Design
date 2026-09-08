@@ -634,7 +634,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Customer-UseCase V3" id="-Pi6tYcJKnN2fGaJlwBs">
-    <mxGraphModel dx="1840" dy="1163" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="3000" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1171" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1400" pageHeight="3000" background="none" math="0" shadow="0">
       <root>
         <mxCell id="7qzKYDO27_P-Wjo0WbQU-0" />
         <mxCell id="7qzKYDO27_P-Wjo0WbQU-1" parent="7qzKYDO27_P-Wjo0WbQU-0" />
@@ -1280,7 +1280,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TMW84qlG4uxFgPk2jj2A-1" parent="7qzKYDO27_P-Wjo0WbQU-1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Customer UseCase Diagram&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="120" width="330" x="700" y="50" as="geometry" />
+          <mxGeometry height="30" width="330" x="700" y="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
