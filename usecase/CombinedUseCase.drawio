@@ -1484,7 +1484,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="qyDpTbhC0RglK0kGfp67" name="SuggestedDiagram">
-    <mxGraphModel dx="10" dy="1018" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="3000" math="0" shadow="0">
+    <mxGraphModel dx="-429" dy="740" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1600" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1643,8 +1643,8 @@
             <mxPoint x="1040" y="1260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F7udyr2DlUH6Va0eJTft-122" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Customer Usecase Diagram&lt;/h1&gt;" vertex="1">
-          <mxGeometry height="30" width="330" x="2235" y="49" as="geometry" />
+        <mxCell id="F7udyr2DlUH6Va0eJTft-122" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;USECASE DIAGRAM&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="30" width="330" x="2280" y="49" as="geometry" />
         </mxCell>
         <mxCell id="rPu1RL94cetc3q-52BCP-1" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;labelBackgroundColor=none;" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;User&lt;/font&gt;" vertex="1">
           <mxGeometry height="162" width="100" x="2980" y="560" as="geometry" />
